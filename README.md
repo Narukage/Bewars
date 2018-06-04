@@ -1,3 +1,3 @@
 # Bewars
-Multimedia Sistems's 2nd Proyect (University of Alicante)
-Roguelike 2D pixelart
+SM's Final Proyect (University of Alicante)
+2D Roguelike - Unity and C#
